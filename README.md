@@ -1,4 +1,4 @@
-Projet 2 du parcours Développeur web - Booki
+BOOKI - Projet 2 du parcours Développeur web d'OpenClassrooms
 
 
 SPÉCIFICATIONS FONCTIONNELLE :
